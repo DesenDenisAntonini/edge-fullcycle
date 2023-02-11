@@ -1,0 +1,15 @@
+node_modules/
+dist
+*.log
+yarn.lock
+build_publish.sh
+/.cache
+.docz
+build_publish_dash.sh
+cypress/videos
+cypress/screenshots
+coverage
+src/build/
+.docz
+.awcache
+.DS_Store
